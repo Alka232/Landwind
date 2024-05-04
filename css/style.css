@@ -1,0 +1,31 @@
+nav{
+    display:flex;
+    justify-content:space-evenly;
+    background-color: aquamarine;
+}
+li{
+    display:flex;
+    display:inline-block;
+
+}
+.menuList{
+    display:flex;
+}
+ul{
+    display: flex;
+    gap: 30px;
+}
+button{
+    background-color:#4E00D3;
+    height:40px;
+    width:80px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: medium;
+
+}
+strong{
+    font-size: large;
+    padding: 20px;
+    text-align: center;
+}
